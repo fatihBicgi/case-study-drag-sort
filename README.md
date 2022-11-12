@@ -1,2 +1,1 @@
-# case-study-drag-sort
-When objects of the same color are brought together, feedback is given to the player that they did it right.
+* Bu Unity projesi içerisinde toplamda 3 prototip ve 1 tasarım desenleri ve prensiplerine yönelik 4 task mevcuttur. 'Assets' klasörü altındaki her bir klasör task'lara ait klasörlerdir. Her biri içerisinde README.md dosyası üzerinden task'lara ait gereksinimleri bulabilirsiniz.
